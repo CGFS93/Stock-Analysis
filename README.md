@@ -5,9 +5,9 @@
 ### Purpose
 
 ### Results: All Stocks Analysis Refactored 2017
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### Results: All Stocks Analysis Refactored 2018
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### Challenges and Difficulties Encountered
 
 ## Summary
