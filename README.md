@@ -10,6 +10,7 @@ VBA was used to make the analysis more efficient and streamlined. The VBA code w
 The picture below is a screenshot of the 2017 analysis using the refactored VBA code. Using the timer function:    
 
 Next i
+
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
     
